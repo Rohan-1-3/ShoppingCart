@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ShoppingCart/static/css/main.eb9ea208.css",
+    "main.js": "/ShoppingCart/static/js/main.a9f05ac9.js",
+    "static/media/bgImage2.jpg": "/ShoppingCart/static/media/bgImage2.e33fc52ba4648826f982.jpg",
+    "static/media/bgImage.jpg": "/ShoppingCart/static/media/bgImage.953886cf2d5a440a5dae.jpg",
+    "static/media/flame.png": "/ShoppingCart/static/media/flame.9c29ad5f64b4b68e7d91.png",
+    "static/media/WhatsApp.png": "/ShoppingCart/static/media/WhatsApp.c7210a8b1a8da8dd5eba.png",
+    "static/media/viber.png": "/ShoppingCart/static/media/viber.061f681f8b1d2e594328.png",
+    "static/media/facebook.png": "/ShoppingCart/static/media/facebook.f8893c4e3eb77dc68f47.png",
+    "static/media/github.png": "/ShoppingCart/static/media/github.1ac330145ad09e2b0f4e.png",
+    "static/media/discord.png": "/ShoppingCart/static/media/discord.a2faf559e00ad5e44c27.png",
+    "static/media/cart.png": "/ShoppingCart/static/media/cart.eca5ee08f37494f3f691.png",
+    "index.html": "/ShoppingCart/index.html",
+    "main.eb9ea208.css.map": "/ShoppingCart/static/css/main.eb9ea208.css.map",
+    "main.a9f05ac9.js.map": "/ShoppingCart/static/js/main.a9f05ac9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb9ea208.css",
+    "static/js/main.a9f05ac9.js"
+  ]
+}
